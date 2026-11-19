@@ -1,0 +1,3 @@
+# paggabao_mobprog
+
+Lab Activity 0: While setting up my Flutter development environment, I encountered some challenges, such as configuring the PATH variables, installing missing dependencies, and accepting Android SDK licenses using flutter doctor. I also had difficulty starting the Android emulator. I solved these problems by checking the error messages, adjusting the settings, and searching online for solutions. After fixing these issues, I successfully ran my first Flutter app. This experience helped me understand how Flutter works and what is needed for mobile development. In future projects, I will make sure to install the required tools properly, check my PATH variables, run flutter doctor, and prepare my emulator before starting to avoid similar problems. 
